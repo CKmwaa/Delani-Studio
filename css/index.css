@@ -1,13 +1,25 @@
 *{
     margin: 0px;
 }
-.contact-us{
-    text-align: center;
-}
 .section1{
     text-align: center;
     color: azure;
     background-color: black;
     background-image: url(Images/h_img.jpg)
     
+}
+.section2{
+    text-align: center;
+}
+.section3{
+    text-align: center;
+}
+.section4{
+    text-align: center;
+}
+.section5{
+    text-align: center;
+}
+.contact-us{
+    text-align: center;
 }
