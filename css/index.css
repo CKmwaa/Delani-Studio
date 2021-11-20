@@ -19,7 +19,16 @@
 }
 .section4{
     text-align: center;
-    
+
+}
+.image1{
+    float:left
+}
+.image2{
+    float: none;
+}
+.image3{
+    float: right;
 }
 .section5{
     text-align: center;
