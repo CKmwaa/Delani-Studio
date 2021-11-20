@@ -1,18 +1,21 @@
 *{
     margin: 0px;
 }
-.section1{
+
+.section1 {
     text-align: center;
-    color: azure;
-    background-color: black;
-    background-image: url(Images/h_img.jpg)
-    
+    background-image: url('/Images/h_img.jpg')
+ 
 }
+
 .section2{
     text-align: center;
 }
 .section3{
     text-align: center;
+    color: blanchedalmond;
+    margin-top: 10px;
+    background-image: url('/Images/s_image.jpg');
 }
 .section4{
     text-align: center;
