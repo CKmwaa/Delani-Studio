@@ -38,6 +38,8 @@
 }
 .section5{
     text-align: center;
+    margin-top: 10px;
+    background-image: ;
 }
 #section6{
     background-image: url(/Images/c_image.jpg);
@@ -48,4 +50,5 @@
 .contact-us{
     text-align: center;
     color: white;
+    background-color: transparent;
 }
