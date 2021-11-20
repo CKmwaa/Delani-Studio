@@ -94,4 +94,7 @@ textarea{
     text-align-last: center;
     align-items: center;
     color: black;
+    padding-top: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 10px;
 }
