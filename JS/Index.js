@@ -1,5 +1,3 @@
-$("Section5").hover(function(){
-    $(this).css("background-color", "yellow");
-    }, function(){
-    $(this).css("background-color", "pink");
+$("#hide").click(function(){
+    $("image1").hide();
   });
