@@ -12,7 +12,7 @@ This website creates a illustartion of a landing page for a studio. What the stu
 * Go to live server
 
 ## Live link
-
+https://ckmwaa.github.io/Delani-Studio/
 
 ## Requirements
 ​* Either a computer,phone,tablet or an Ipad​
