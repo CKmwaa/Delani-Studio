@@ -58,6 +58,7 @@
 }
 .section4{
     text-align: center;
+    height: 500px;
 
 }
 .section4 h2{
@@ -77,19 +78,20 @@
 }
 .section5{
     text-align: center;
-    margin-top: 10px;
+    height: 700px;
 }
 .section5 h2{
     padding-top: 40px;
+}
+.portfolio{ 
+    padding-left: 50px;
 }
 #section6{
     background-image: url(/Images/c_image.jpg);
     background-position: center;
     background-size: cover;
-    height: 60vh;
+    height: 600px;
     padding-top: 40px;
-}
-.contact-us{
     text-align: center;
     color: white;
     background-color: transparent;
@@ -116,4 +118,34 @@ textarea{
     padding-top: 40px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 10px;
+}
+#design{
+    display: none;
+}
+.alignDesign{
+    text-align: center;
+}    
+.boldDesign{
+    font-weight: bold;
+    text-align: center;
+}
+#development{
+    display: none;
+}
+.alignDesign{
+    text-align: center;
+}    
+.boldDesign{
+    font-weight: bold;
+    text-align: center;
+}
+#product{
+    display: none;
+}
+.alignDesign{
+    text-align: center;
+}    
+.boldDesign{
+    font-weight: bold;
+    text-align: center;
 }
