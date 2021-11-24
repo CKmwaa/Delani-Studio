@@ -19,7 +19,6 @@ $(document).ready(function(){
         $("#product").addClass("alignDesign")
         $("span").addClass("boldDesign")
     })
-
 })
 
 // hover effect on portfolio
