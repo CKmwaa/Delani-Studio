@@ -1,5 +1,6 @@
 // toogle  what to do icon
 $(document).ready(function(){
+    // alert ("Working")
     $("#image1").click(function(){
         $("#design").show(2000)
         $("#image1").hide(2000)
